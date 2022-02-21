@@ -35,12 +35,12 @@ Bot = Client(
     api_hash = os.environ["API_HASH"],
 )
 
-START_TEXT = """**Hello {} 😌
+START_TEXT = """**Hello {} 😘
 I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
 
-Made by @Mo_Tech_YT"""
+Made by @UMASHANKAR31"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -55,33 +55,33 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @Mo_Tech_YT"""
+Made by @UMASHANKAR31"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [😍INSTAGRAM 😍](https://instagram.com/umashankar31981)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
+👨‍💻 **Editor :** [✨FACEBOOK✨](https://www.facebook.com/Umashankar31981)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/Mo_Tech_YT)
+📢 **Owner :** [✨OWNER✨](@Umashankar31)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
+👥 **Group :** [ Group](https://t.me/shayari_jok)
 
-🌐 **Source :** [👉 Click here](https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2)
+🌐 **Source :** [👉 Click here](@Umashankar31)
 
 📝 **Language :** [Python3](https://python.org)
 
 🧰 **Framework :** [Pyrogram](https://pyrogram.org)
 
-📡 **Server :** [Heroku](https://heroku.com)"""
+📡 **Server :** [Heroku](@Umashankar31)"""
 
 FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🖥️Facebook🖥️', url='https://www.facebook.com/Umashankar31981'),
         ],[
         InlineKeyboardButton('⚙ Help', callback_data='help'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
@@ -91,7 +91,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('Facebook 🖥️', url='https://www.facebook.com/Umashankar31981'),
         ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
@@ -101,7 +101,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🖥️ Facebook 🖥️', url='https://www.facebook.com/Umashankar31981'),
         ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('Help ⚙', callback_data='help'),
